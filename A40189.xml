@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Friend! Who art called a teacher of these people of the waies of God</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40189</idno>
+            <idno type="STC">Wing F1823B</idno>
+            <idno type="STC">ESTC R31637</idno>
+            <idno type="EEBO-CITATION">11132603</idno>
+            <idno type="OCLC">ocm 11132603</idno>
+            <idno type="VID">46371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1423:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Friend! Who art called a teacher of these people of the waies of God</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first line of text.</note>
+                  <note>Signed: G.F.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Christian life --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:46371:1" rendition="simple:additions"/>
+            <opener>
+               <salute>Friend!</salute>
+            </opener>
+            <p>WHo art called a <hi>Teacher</hi> of theſe people of the waies of <hi>God,</hi> How many haſt thou brought into <hi>it?</hi> or art thou thy ſelf in <hi>it?</hi> How many haſt thou brought out of evil waies? Or art thou thy ſelf out of the evill ways? Wilt thou not <hi>preach</hi> peace to them that <hi>Curſe, Swear</hi>; that are <hi>Drunkards, Adulterers, Idolaters, envious, ſtrikers</hi> and <hi>covetous, mockers,</hi> ſuch as follow <hi>pleaſures,</hi> and lives <hi>wantonly</hi> upon earth, and <hi>Liers, Cozeners</hi> and <hi>Cheaters,</hi> while they put into thy mouth? will not thou <hi>preach</hi> peace to ſuch as theſe are before-mentioned? And will not theſe ſerve to put into thy mouth? And did not the <hi>Prophets</hi> and <hi>Apoſtles</hi> cry againſt ſuch who taught the people for covetouſneſs, and made mer<g ref="char:EOLhyphen"/>chandiſe of them through it, and fained words and ſpeeches deceived the hearts of the ſimple? That ſuch ſerve not the <hi>Lord Jeſus Chriſt,</hi> but their own <hi>bellies</hi>; who mind earthly things. Did the people do well or ill in holding up theſe Tea<g ref="char:EOLhyphen"/>chers which the <hi>Prophet</hi> reproves? And might not the Teachers ſay <hi>(who taught for filthy lucre)</hi> it was <hi>ſad times</hi> when the <hi>Apoſtle</hi> was come to draw the people from them, and to reprove them who taught for <hi>filthy lucre?</hi> as now the cry is a<g ref="char:EOLhyphen"/>mongſt you, who have taught for <hi>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lthy lucre,</hi> that have <hi>preached</hi> peace to people while they put into your mouths, but now they do not put into your mouths, againſt whom ye prepare War, not peace, and cry, <hi>ſad times, Mic.</hi> 3. Where is the man that <hi>Divines for money now?</hi> Where is the man that prophecies for mony now? And did not <hi>Micah</hi> cry againſt ſuch? Is there none of <hi>Micahs</hi> ſpirit, thinkſt thou, to bear teſtimony againſt ſuch as <hi>preach for hire,</hi> and <hi>Divine for mo<g ref="char:EOLhyphen"/>ney,</hi> and <hi>preach peace to people, while they put into their mouths?</hi> Is there none of this ſpirit, thinkeſt thou, to cry againſt theſe things? Where is the man now <hi>that preacheth for hire, that ſeeks for his gain from his quarter; That's a greedy dumb dogg, who can never have enough?</hi> Did <hi>Iſaiah</hi> well in crying againſt ſuch? <hi>Iſaiah</hi> 56. Did the people do well <hi>in ſpending their money for that which was not bread, and their labour for that which doth not ſatisfie</hi>? And did they do well that took their money <hi>for that which was not bread,</hi> and made people r<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> after that <hi>which did not ſatisfie</hi>? Did <hi>Iſaiah</hi> do <hi>well</hi> in reproving ſuch, or <hi>ill</hi>? And is there none in our <hi>Age</hi> that are <hi>greedy dumb dogs, who ſeeks for their gain from their quarter,</hi> that makes the people <hi>ſpend their money for that which is not bread, and their labour for that which doth not ſatisfie</hi>? And is there none in our <hi>Age</hi> of <hi>Iſaiah</hi>'s ſpirit, raiſed up to cry againſt ſuch, think <hi>ye</hi>? And where is the Prie<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>rules by his means, and the People love to have it ſo?</hi> Which is a horrible thing c<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mitted in the Land, for which cauſe will Gods ſoul be aveng<g ref="char:EOLhyphen"/>ed on ſuch a Nation. And think ye not that Gods ſoul is avenged on this Nati<g ref="char:EOLhyphen"/>on for ſuch a horrible filthy thing as this is committed in the Land? Did (and doth) the <hi>Prieſts</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well in <hi>bearing rule by their means?</hi> Did (and doth) the peo<g ref="char:EOLhyphen"/>ple do well in <hi>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing to have it ſo</hi>? Did <hi>Jeremiah</hi> do well in crying againſt thoſe things? Or thoſe that be in <hi>Jeremiah's</hi> ſpirit, againſt them where theſe things are found? Did the Shepherds do w<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that <hi>aught for the Fleece,</hi> from whoſe mouth the Lord ſaid he would gather them that have been made a prey upon in the cloudy and dark day? And is it not the <hi>cloudy and dark day now,</hi> that the Shepherds make a prey upon the people, from whoſe mouths the Lord will gather his peo<g ref="char:EOLhyphen"/>ple? Will not theſe Shepherds be offended then, and ſay its a bad time, that now they cannot get the fleece? Is this the time <hi>that the Clouds and darkneſs is going away?</hi> Did <hi>Ezekiel</hi> do <hi>well</hi> in declaring againſt ſuch that made a prey upon the ſheep <hi>in the cloudy and dark day,</hi> when they wandered from <hi>Mountain</hi> to <hi>Mountain</hi>? And do they <hi>ill</hi> who be in <hi>Ezekiels</hi> ſpirit now, that cry againſt ſuch that make a prey up<g ref="char:EOLhyphen"/>on the ſheep for the fleece <hi>in the cloudy and dark day,</hi> where the ſheep are wander<g ref="char:EOLhyphen"/>ing from <hi>Mountain</hi> to <hi>Mountain,</hi> and thinks that ſome <hi>Mountains</hi> are greener then others, and freſher, on which is better feeding, that lean the ſheep are grown on theſe <hi>barren Mountains?</hi> Therefore muſt not the promiſe of God be fulfilled, <hi>That he will ſeek his ſheep, and gather them where they have been ſcattered,</hi> and feed them him<g ref="char:EOLhyphen"/>ſelf <hi>Ezek</hi> 34. Therefore now is the <hi>cry</hi> and the call, <hi>To come off from the barren Moun<g ref="char:EOLhyphen"/>tains, and to feed</hi> not <hi>among the Thorns.</hi> Did the Phariſees do well <hi>in loving to be cal<g ref="char:EOLhyphen"/>led of men Maſters, in getting the chiefeſt Rooms at Feaſts, and greetings in the Markets?</hi> And doſt not thou do <hi>ill</hi> in following the Phariſees in theſe ſteps, ſeeing Chriſt forbad theſe things? And if it be well, doſt not thou do ill in not ſaying, <hi>Mr. Paul, Mr. Peter, Mr. John, Mr. Mark, Mr. Timothy, Mr. Titus, Mr. Matthew, &amp;c?</hi> Did the <hi>Common-Prayer-men</hi> do well in putting the <hi>Papiſts</hi> out of the <hi>Maſs-Houſe,</hi> and ſo call it their <hi>Church</hi>? Did the <hi>Presbyterians</hi> do ill in putting the <hi>Common-Pray<g ref="char:EOLhyphen"/>er-men</hi> out of the ſame <hi>Maſs-houſe,</hi> and call it their <hi>Church</hi>? And ſo likewiſe the <hi>Independents</hi>? And did not the <hi>Papiſts</hi> ſay, <hi>The Gates of Hell ſhould not prevail againſt it</hi>? And have not ye all done ill in telling the people the old <hi>maſs-houſe</hi> is the <hi>Church</hi>; when as the <hi>Apoſtle</hi> ſaid, <hi>The Church was in God, Theſs.</hi> 1.1. Did the <hi>Papists</hi> do <hi>ill</hi> in ſelling their <hi>maſs</hi> by the <hi>Hour-glaſs</hi>? Do ye do <hi>well</hi> that <hi>ſells</hi> your <hi>Prayers</hi> and <hi>Prea<g ref="char:EOLhyphen"/>chings</hi> by the <hi>Hour-Glaſs,</hi> and when <hi>Glaſs</hi> is run, <hi>the time is ſpent Neighbours</hi>? as much to ſay, <hi>Ye have your meaſure and bargain, give me my due that the</hi> Pope <hi>my Father gave me</hi>; for <hi>Chriſt</hi> and his <hi>Apoſtles</hi> made no ſuch proviſion for me, but ſent his with<g ref="char:EOLhyphen"/>out <hi>bagg,</hi> and would not ſuffer them to preach <hi>for filthy lucre</hi>; Surely is not this the hard Maſter? <hi>But is not this the man that hid his talent, that ſaid ſo; that muſt be bound hand and foot, and caſt into utter darkneſs,</hi> and his <hi>talent</hi> taken from him. Was not <hi>Tithes, Midſomer-dues, Eaſter-reckonings, Gleb-lands, Peter-pence, Clerks-wages, Preach<g ref="char:EOLhyphen"/>ing over the dead for money, marrying people, Chriſtning children for mony,</hi> the <hi>Popes</hi> pro<g ref="char:EOLhyphen"/>viſion he made for yee, and his dregs you drink, that lay in the bottom of his old bottle; And are not yee <hi>Popiſhly</hi> minded, and <hi>Jeſuitically</hi> affected who uphold theſe things? And was not all theſe times, as <hi>Chriſt-maſs, Michael-maſs, Lamb-maſs, Candle-maſs,</hi> and all theſe daies named by the <hi>Saints</hi> names, and all theſe naming of the <hi>Steeple-houſes,</hi> the old <hi>Maſs-houſes</hi> and <hi>Colledges</hi> the <hi>Popes</hi> doing? Did he <hi>well</hi> in doing this, or <hi>ill? If well,</hi> Then why cry yee againſt him who is your <hi>Teacher,</hi> and call him the <hi>Whore; Is not this ill-breeding?</hi> Or did the Apoſtles give all theſe names to them before-mentioned? If ſo, ſhew us the Scripture; was the <hi>Scripture</hi> given forth for <hi>men</hi> to make a trade of them, or for <hi>men</hi> to believe them, and read them, and come into the thing they ſpeak of? Have yee the ſame ſpirit and power the <hi>Prophets</hi> and <hi>Apoſtles</hi> had, who call your ſelves <hi>Teachers?</hi> If not, how can yee <hi>ſow ſpiritual things?</hi> How can yee <hi>plant Vineyards?</hi> How can ye <hi>get flocks?</hi> How can ye <hi>(threſh in hope, and plough in hope)</hi> but plough in vain, and threſh in vain, and make wilderneſſes, and but turn againſt the flock that gives the milk, not being in the power and the ſpirit the <hi>Prophets</hi> and <hi>Apoſtles</hi> were in? Had the <hi>Beaſt, Dragon, Falſe-prophet, Anti-chriſt, myſtery-Babylon,</hi> the falſe Church, the <hi>Tongues</hi> they ſate upon, the ſame ſpirit and power which has kill'd the <hi>Prophets, Martyrs</hi> and <hi>Saints,</hi> and them which hath kept the teſtimony of <hi>Jeſus</hi> ſince the <hi>Apoſtles</hi> dayes, unto this day? Have theſe been in the ſame <hi>ſpirit</hi> and <hi>power</hi> the <hi>Apoſtles</hi> was in? And again, Have theſe had the ſame ſpirit and power the Apo<g ref="char:EOLhyphen"/>ſtles had, that have their <hi>Goals, Houſes of Correction, Inquiſitions,</hi> to hold up their <hi>Church, Worſhip, Religion, Miniſtry,</hi> and <hi>Maintenance?</hi> Seeing the <hi>Apoſtle</hi> ſaid, <hi>Their Weapons were not carnal, but ſpiritual,</hi> and <hi>they wreſtled not with fleſh and blood</hi>; therefore are not the other things before-mentioned, the dregs that came out of the <hi>Popes</hi> old bottle, like unto that which came out of the <hi>Jews</hi> old bottle, againſt <hi>Chriſt</hi> and his <hi>Diſciples,</hi> and <hi>John Baptiſt</hi> and rather worſe? For did they ever put any to <hi>Death</hi> for not putting into the <hi>prieſt's</hi> mouth? Did they fine or impriſon any for not putting off the hat? Did they plunder or rifle the Houſes of people for not mending their <hi>Temple,</hi> not paying the <hi>Clark</hi> for ſaying <hi>Amen,</hi> and bringing a Cu<g ref="char:EOLhyphen"/>ſhion, and hanging a <hi>prophet's</hi> or <hi>prieſt's pulpit</hi>; as ye have done now, for <hi>not mending the old maſs-Houſe, not paying the Clark</hi> that turns the <hi>Glaſs,</hi> and ſayes <hi>Amen,</hi> and layes the Cuſhion, and hangs the <hi>Prieſt's Pulpit</hi>? Was this the Dregs of the <hi>Popes</hi> old Bottle, or <hi>from the Spirit of glory</hi> that reſted on the <hi>Apoſtles</hi>? Did the <hi>Prophet</hi> do wel <hi>that propheſied to the people for handfuls of Barley, and pieces of Bread</hi>? Were the people wiſe <hi>that gave it them</hi>? Did <hi>Ezekiel</hi> do ill <hi>in crying againſt ſuch?</hi> Was it not a bad time, they might ſay when <hi>Ezekiel</hi> cryed againſt them <hi>that propheſied for handfuls of Barley, and pieces of Bread? Ezek.</hi> 14. And will the <hi>Prieſts</hi> propheſie now with<g ref="char:EOLhyphen"/>out <hi>ſhocks</hi> and <hi>cocks</hi> of <hi>Barley, Wheat, Peaſe,</hi> and <hi>Beans, Midſummer-dues, Glebe-lands, Eaſter-Reckonings, Augmentations, &amp;c.</hi> Is not this more oppreſſive <hi>then for handfulls of Barley, or pieces of Bread</hi>? And do not they now <hi>cry bad times,</hi> becauſe the ſpirit of <hi>Ezekiel</hi> is raiſed to bear teſtimony againſt theſe things? And might not the <hi>Jews</hi> ſay it was a bad time when that the <hi>Apoſtles</hi> went to bring the people off from the <hi>Prieſt,</hi> off the <hi>Tythe,</hi> off the <hi>Temple,</hi> and that <hi>Stephen</hi> ſaid, <hi>The moſt High dwelleth not there</hi>? Did the <hi>Apostle</hi> do well in doing ſo? If ſo, then have not ye done ill, that have ſet up <hi>Temples, Tythes,</hi> and <hi>Priests,</hi> ſince the <hi>Apoſtles</hi> dayes, which God never commanded, which ye have <hi>invented,</hi> that cry, <hi>Now is bad times,</hi> becauſe people are brought off your <hi>inventions</hi> by the power of God? Did the <hi>Apostle</hi> do ill in bringing the <hi>Gentiles</hi> off their <hi>Temples</hi> which they had <hi>invented</hi>? Might not the <hi>Gentiles</hi> cry then, <hi>It was a bad time,</hi> as ye do now? And as the <hi>Jews</hi> called <hi>the Apo<g ref="char:EOLhyphen"/>stle a pestilent fellow, a ſower of Sedition</hi>: Do ye think the <hi>Jews</hi> would not ſay <hi>it was a bad time,</hi> as ye do now that ſtick in your popiſh inventions which have got up ſince the <hi>Apostles</hi> dayes, for which ye have no Scripture, that now they come to be cryed againſt by them that comes into the power of God. Did the <hi>Prophets, Christ,</hi> and <hi>Apostles,</hi> do well in ſaying, <hi>The Children of the Lord ſhould be taught of the Lord; and the Kingdom of Heaven was within people; and the Word was within them, and the annointing was within them, to teach them; and the Law was to be put into their hearts, and their minds, that they need not ſay one to another,</hi> Know the Lord: <hi>And the Light that ſhi<g ref="char:EOLhyphen"/>ned in their hearts, was to give them the knowledge of the glory of God in the face of Christ; and they that had not the ſpirit of Christ, were none of his.</hi> And have not ye done ill who have denied this, that ſayes that ye nor no one elſe hath the ſame ſpirit and power as the <hi>Prophets</hi> and <hi>Apostles</hi> had, neither ſhall the things before mentioned be looked for in our dayes? And have not ye done ill in keeping people alwayes teaching, that they may be alwayes paying, and hath brought none to the condi<g ref="char:EOLhyphen"/>tion the Apoſtles did, <hi>That they need none to teach them to know the Lord, Heb.</hi> 8. 1 <hi>Joh.</hi> 7. <hi>Iſa.</hi> 54. <hi>Luke</hi> 17. <hi>Rom.</hi> 8.</p>
+            <p>
+               <hi>Are ye innocent? are ye innocent, O ye Teachers,</hi> (<hi>before the Lord</hi>) of all the priſon<g ref="char:EOLhyphen"/>ing, and perſecuting, and ſhedding of the blood of the <hi>innocent,</hi> which is ſhed in this your day?</p>
+            <p>Oh all ye <hi>Gentry</hi> (ſo called) of all ſorts, does not all your <hi>Manners</hi> and <hi>Breeding</hi> ſtand in <hi>Capping, doffing Hats,</hi> and <hi>Scraping, Bowing, and Courching,</hi> and ſpeaking the improper Language <hi>You</hi> to a ſingle perſon, as <note n="*" place="margin">All honor, all praiſe, all reverence, all holineſs, all worſhip, all Majeſty, all do<g ref="char:EOLhyphen"/>minion, is due, and peculiarly aſcribed, and ought to be given to God alone, who is God over all, and above all the unbelievers, who give and receive honour one of ano<g ref="char:EOLhyphen"/>ther; <hi>for how can ye believe, who receive honor one of another</hi>?</note> 
+               <hi>Your Worſhip, Your Majeſty, Your Lordſhip, Your Honour, Your Highneſs, Your Grace, Your Holineſs, Reverend Brother</hi>; And ſuch like blaſphemous titles.</p>
+            <closer>
+               <signed>Rejoice yee Inhabitants of the Earth. G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the Black-ſpread-Eagle and Wind-mill, in Martins le Grand, 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
